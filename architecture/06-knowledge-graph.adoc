@@ -1,0 +1,53 @@
+= Knowledge Graph
+:doctype: article
+:toc:
+:sectnums:
+:icons: font
+
+== Central Graph
+
+[source,text]
+----
+The God Field
+An Invitation to the Grand Dance
+        │
+        ▼
+God Field Dance
+        │
+        ├── Human Universals
+        ├── Lewis Thread
+        ├── Worldview Analysis
+        ├── Biblical Interpretation
+        └── Participation
+----
+
+== Human Universals Layer
+
+[source,text]
+----
+Reality
+Intelligibility
+Beauty
+Longing
+Morality
+Love
+Imagination
+Participation
+----
+
+== Narrative Layer
+
+[source,text]
+----
+Human Experience
+        ↓
+Worldview Analysis
+        ↓
+The God Field
+        ↓
+Biblical Interpretation
+        ↓
+Life in Christ
+        ↓
+The Grand Dance
+----

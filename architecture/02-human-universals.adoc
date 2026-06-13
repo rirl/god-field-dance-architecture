@@ -1,0 +1,47 @@
+= Human Universals
+:doctype: article
+:toc:
+:sectnums:
+:icons: font
+
+== Purpose
+
+The human universals function as recurring
+clues.
+
+They are not treated as isolated arguments.
+
+They are windows into reality.
+
+== The Clues
+
+[source,text]
+----
+Reality
+Intelligibility
+Beauty
+Longing
+Morality
+Love
+Imagination
+Participation
+----
+
+== Function in the Project
+
+Each clue is traced through:
+
+* ordinary human experience,
+* philosophical reflection,
+* Lewis's fiction and nonfiction,
+* worldview comparison,
+* biblical interpretation,
+* and lived participation.
+
+== Volume I Role
+
+Volume I gathers the clues.
+
+It does not yet attempt to prove the whole case.
+
+It trains attention.

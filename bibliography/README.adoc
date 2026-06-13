@@ -1,0 +1,5 @@
+= Bibliography
+
+This directory will collect source notes,
+citation lists,
+and chapter-specific bibliographic material.

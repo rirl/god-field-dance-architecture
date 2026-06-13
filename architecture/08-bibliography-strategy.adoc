@@ -1,0 +1,33 @@
+= Bibliography Strategy
+:doctype: article
+:toc:
+:sectnums:
+:icons: font
+
+== Purpose
+
+The bibliography should support the project
+without overwhelming the popular-level voice.
+
+== Initial Categories
+
+* C. S. Lewis fiction
+* C. S. Lewis nonfiction
+* biblical theology
+* apologetics
+* philosophy of religion
+* phenomenology
+* philosophy of mind
+* worldview comparison
+
+== Placement
+
+Bibliographic material should live in:
+
+[source,text]
+----
+bibliography/
+----
+
+Chapter-specific citation notes may be developed
+alongside the relevant chapter drafts.

@@ -1,0 +1,59 @@
+= The Lewis Thread
+:doctype: article
+:toc:
+:sectnums:
+:icons: font
+
+== Role of C. S. Lewis
+
+Lewis is not a separate chapter dump.
+
+He is a guide woven through the whole project.
+
+Scripture remains the authority.
+
+Lewis helps name,
+imagine,
+and illuminate the realities under discussion.
+
+== Nonfiction Stream
+
+Lewis's nonfiction helps identify and analyze
+the phenomena.
+
+Representative works:
+
+* Mere Christianity
+* Miracles
+* The Abolition of Man
+* Surprised by Joy
+* The Weight of Glory
+* The Four Loves
+* Letters to Malcolm
+
+== Fiction Stream
+
+Lewis's fiction helps readers imaginatively
+inhabit the phenomena.
+
+Representative works:
+
+* The Chronicles of Narnia
+* Out of the Silent Planet
+* Perelandra
+* That Hideous Strength
+* The Great Divorce
+* Till We Have Faces
+
+== Theme Mapping
+
+[source,text]
+----
+Beauty        → Narnia; The Weight of Glory
+Morality      → Mere Christianity; Abolition of Man
+Reason        → Miracles; Abolition of Man
+Longing       → Surprised by Joy; Weight of Glory
+Love          → Four Loves; Till We Have Faces
+Imagination   → Narnia; Space Trilogy
+Participation → Perelandra; Great Divorce
+----

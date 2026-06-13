@@ -1,0 +1,85 @@
+= Volume Map
+:doctype: article
+:toc:
+:sectnums:
+:icons: font
+
+== Overall Movement
+
+[source,text]
+----
+Volume I
+Attention and recognition
+
+Volume II
+Explanation and comparison
+
+Volume III
+Historical revelation and participation
+----
+
+== Volume I
+
+Title:
+
+[source,text]
+----
+The Strange Familiarity of Reality
+----
+
+Purpose:
+
+[source,text]
+----
+Attention
+        ↓
+Recognition
+        ↓
+Wonder
+        ↓
+Question
+----
+
+== Volume II
+
+Working title:
+
+[source,text]
+----
+The God Field
+----
+
+Purpose:
+
+[source,text]
+----
+Comparison
+        ↓
+Explanation
+        ↓
+Inference
+        ↓
+Theism
+----
+
+== Volume III
+
+Working title:
+
+[source,text]
+----
+The Word Made Flesh
+----
+
+Purpose:
+
+[source,text]
+----
+Historical Revelation
+        ↓
+Christ
+        ↓
+Church
+        ↓
+Participation
+----

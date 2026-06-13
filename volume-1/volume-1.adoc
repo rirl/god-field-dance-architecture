@@ -1,0 +1,23 @@
+= Volume I: The Strange Familiarity of Reality
+:doctype: book
+:toc:
+:sectnums:
+:icons: font
+
+include::content/chapter-01-attention-to-reality.adoc[]
+
+include::content/chapter-02-attention-to-intelligibility.adoc[]
+
+include::content/chapter-03-attention-to-beauty.adoc[]
+
+include::content/chapter-04-attention-to-longing.adoc[]
+
+include::content/chapter-05-attention-to-morality.adoc[]
+
+include::content/chapter-06-attention-to-love-and-communion.adoc[]
+
+include::content/chapter-07-attention-to-imagination.adoc[]
+
+include::content/chapter-08-attention-to-participation.adoc[]
+
+include::content/conclusion-the-clues-gather.adoc[]

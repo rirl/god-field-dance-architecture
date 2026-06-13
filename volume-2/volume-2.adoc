@@ -1,0 +1,12 @@
+= Volume II: The God Field
+:doctype: book
+:toc:
+:sectnums:
+:icons: font
+
+== Purpose
+
+Volume II will move from gathered clues
+toward explanation,
+worldview comparison,
+and inference to the best explanation.

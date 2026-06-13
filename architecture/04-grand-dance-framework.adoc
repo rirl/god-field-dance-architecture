@@ -1,0 +1,49 @@
+= Grand Dance Framework
+:doctype: article
+:toc:
+:sectnums:
+:icons: font
+
+== Governing Metaphor
+
+The Grand Dance represents the participatory
+destination of the project.
+
+It gathers:
+
+* beauty,
+* harmony,
+* order,
+* vocation,
+* love,
+* joy,
+* communion,
+* and participation.
+
+== Relationship to the God Field
+
+[source,text]
+----
+God Field
+        =
+Explanatory framework
+
+Grand Dance
+        =
+Participatory vision
+
+God Field Dance
+        =
+Integrated framework
+----
+
+== Theological Guardrail
+
+The Grand Dance must remain subordinate to
+biblical interpretation.
+
+It is a metaphor,
+not an independent doctrine.
+
+It helps readers imagine the invitation
+toward participation in the life of God.

@@ -1,0 +1,4 @@
+= Research
+
+This directory will collect working research notes
+that support the God Field Dance project.

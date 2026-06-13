@@ -1,0 +1,4 @@
+= Antora
+
+This directory is reserved for future Antora
+publication configuration and migration assets.

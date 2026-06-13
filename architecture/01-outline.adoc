@@ -1,0 +1,72 @@
+= God Field Dance Architecture 1.1
+:doctype: article
+:toc:
+:sectnums:
+:icons: font
+
+== Project Naming
+
+Project shorthand:
+
+[source,text]
+----
+God Field Dance
+----
+
+Public book title:
+
+[source,text]
+----
+The God Field
+----
+
+Subtitle:
+
+[source,text]
+----
+An Invitation to the Grand Dance
+----
+
+== Core Definition
+
+God Field Dance names the integrated framework
+we use to discuss the project.
+
+It includes:
+
+* human experience,
+* human universals,
+* the Lewis thread,
+* the God Field explanatory synthesis,
+* biblical interpretation,
+* participation,
+* and the Grand Dance.
+
+== Book-Level Movement
+
+[source,text]
+----
+Human Experience
+        ↓
+Worldview Analysis
+        ↓
+The God Field
+        ↓
+Biblical Interpretation
+        ↓
+Life in Christ
+        ↓
+The Grand Dance
+----
+
+== Current Volume Focus
+
+Volume I:
+
+[source,text]
+----
+The Strange Familiarity of Reality
+----
+
+Volume I teaches the reader to pay attention
+before moving into formal apologetic argument.

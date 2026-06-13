@@ -1,0 +1,5 @@
+= Graphics
+
+This directory will collect PNG diagrams,
+knowledge graphs,
+and visual assets.

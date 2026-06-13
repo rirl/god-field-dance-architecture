@@ -1,0 +1,45 @@
+= Antora Architecture
+:doctype: article
+:toc:
+:sectnums:
+:icons: font
+
+== Guiding Principle
+
+Do not force drafting structure to become
+publishing structure too early.
+
+Separate:
+
+* architecture,
+* manuscript content,
+* research,
+* bibliography,
+* graphics,
+* and Antora publication assets.
+
+== Future Antora Shape
+
+[source,text]
+----
+modules/
+└── ROOT/
+    ├── pages/
+    ├── images/
+    ├── attachments/
+    └── nav.adoc
+----
+
+== Recommended Migration
+
+Volume folders can later become Antora modules.
+
+[source,text]
+----
+volume-1/content/
+        ↓
+modules/volume-1/pages/
+----
+
+Architecture files may remain private or become
+a separate documentation module.
